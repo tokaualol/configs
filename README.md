@@ -1,4 +1,7 @@
 each config has a readme on how to properly use it
 
 video games:<br>
-[Counter-Strike 2](/CS2)
+[Counter-Strike 2](CS2)
+
+other:<br>
+[Monkeytype](Monkeytype)
