@@ -10,16 +10,14 @@ press J to cycle the say binds
       └── csgo
           └── cfg
               ├── bikinibabelover_cs2
-              ├── movement
-              ├── +jump.cfg
+              ├── -duck.cfg
               ├── -jump.cfg
+              ├── +duck.cfg
+              ├── +jump.cfg
               ├── autoexec.cfg
-              └── listenserver.cfg
 
-#### Launch Args
+#### My Launch Arguments
 `+exec autoexec.cfg -allow_third_party_software -nojoy -limitvsconst`
 
 credits:<br>
-[desubtick config](https://discord.gg/dUQjX54wfH)
-
-###### Last Updated ~ Aug, 2025
+[desubtick / multi-binds](https://discord.gg/dUQjX54wfH)
